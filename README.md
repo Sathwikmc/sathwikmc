@@ -27,11 +27,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eta-seven-71.vercel.app/api/pin/?username=Sathwikmc&repo=Document-Question-Answering-System-using-RAG&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&border_color=22D3EE&hide_border=false" alt="RAG QA System" />
-<img width="49%" src="https://github-readme-stats-eta-seven-71.vercel.app/api/pin/?username=Sathwikmc&repo=my-computer-vision&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&border_color=22D3EE&hide_border=false" alt="Computer Vision" />
-<br/>
-<img width="49%" src="https://github-readme-stats-eta-seven-71.vercel.app/api/pin/?username=Sathwikmc&repo=Malaria-Prediction-Using-CNN-Model&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&border_color=22D3EE&hide_border=false" alt="Malaria Prediction CNN" />
-<img width="49%" src="https://github-readme-stats-eta-seven-71.vercel.app/api/pin/?username=Sathwikmc&repo=3D-Car-Visualization&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&border_color=22D3EE&hide_border=false" alt="3D Car Visualization" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sathwikmc/Sathwikmc/main/projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sathwikmc/Sathwikmc/main/projects-light.svg">
+  <img alt="Projects" src="https://raw.githubusercontent.com/Sathwikmc/Sathwikmc/main/projects-light.svg">
+</picture>
+
+**View on GitHub:** [Document-QA-RAG](https://github.com/Sathwikmc/Document-Question-Answering-System-using-RAG) · [my-computer-vision](https://github.com/Sathwikmc/my-computer-vision) · [Malaria-Prediction-CNN](https://github.com/Sathwikmc/Malaria-Prediction-Using-CNN-Model) · [3D-Car-Visualization](https://github.com/Sathwikmc/3D-Car-Visualization)
 
 </div>
 
