@@ -1,0 +1,26 @@
+name: Regenerate Projects Showcase
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "projects.json"
+      - "scripts/build_projects_svg.py"
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate projects SVGs
+        run: python3 scripts/build_projects_svg.py
+      - name: Commit updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add projects-dark.svg projects-light.svg
+          git diff --staged --quiet || git commit -m "Regenerate projects showcase [skip ci]"
+          git push
