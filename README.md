@@ -1,27 +1,36 @@
-# 💫 About Me:
-🔭 I’m currently working on learning Java and building small projects.<br>👯 I’m looking to collaborate on student-friendly projects, beginner open-source contributions, or coding challenges.<br>🤝 I’m looking for help with data structures, algorithms, and understanding complex coding concepts.<br>🌱 I’m currently learning Java, Python, and basic web development (HTML, CSS, JS).<br>💬 Ask me about Java, problem-solving, or beginner programming projects.<br>⚡ Fun fact: I love solving coding puzzles and learning new tech every day.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sathwikmc/Sathwikmc/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sathwikmc/Sathwikmc/main/light.svg">
+  <img alt="Sathwik M C" src="https://raw.githubusercontent.com/Sathwikmc/Sathwikmc/main/light.svg">
+</picture>
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwik-m-c-46556b359) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sathwikmc9845@gmail.com) 
+<img width="100%" src="https://streak-stats.demolab.com/?user=Sathwikmc&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<br/>
+<img width="49%" src="https://github-readme-stats-eta-seven-71.vercel.app/api?username=Sathwikmc&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats-eta-seven-71.vercel.app/api/top-langs/?username=Sathwikmc&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sathwikmc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sathwikmc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathwikmc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sathwikmc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sathwikmc/Sathwikmc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sathwikmc/Sathwikmc/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Sathwikmc/Sathwikmc/output/github-snake.svg" />
+</picture>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sathwikmc&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Sathwikmc&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://www.linkedin.com/in/sathwik-m-c-46556b359">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sathwikmc9845@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+
+</div>
