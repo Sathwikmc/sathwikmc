@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Document-QA-RAG",
+    "repo": "Document-Question-Answering-System-using-RAG",
+    "desc": "Document Q&A system using LangChain + Streamlit (RAG)",
+    "tech": ["Python", "LangChain", "Streamlit"],
+    "stars": 2
+  },
+  {
+    "name": "my-computer-vision",
+    "repo": "my-computer-vision",
+    "desc": "Computer vision experiments and pipelines",
+    "tech": ["Python", "OpenCV"],
+    "stars": 0
+  },
+  {
+    "name": "Malaria-Prediction-CNN",
+    "repo": "Malaria-Prediction-Using-CNN-Model",
+    "desc": "Malaria cell classification using a CNN model",
+    "tech": ["Python", "Keras", "CNN"],
+    "stars": 0
+  },
+  {
+    "name": "3D-Car-Visualization",
+    "repo": "3D-Car-Visualization",
+    "desc": "3D car visualization built in Python",
+    "tech": ["Python"],
+    "stars": 0
+  }
+]
